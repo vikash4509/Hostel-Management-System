@@ -15,6 +15,6 @@ Open Your browser put inside browser http://localhost/hostel/
 Usenrame: admin
 Password: Test@1234
 ****************************Login Details for user****************************
-Username: test@gmail.com
-Password: Test@123
+Username: vikash1182004@gmail.com
+Password: 123456
 Or Register a new user
